@@ -12,7 +12,7 @@ BERT gives us output vectors , these vectors are represented in the form of toke
 **1. K-means Algorithm**
 In K-means algorithm, we divide all the data into a predefined number of clusters, each of these cluster contain some part of data. In the same cluster it tries to put the datapoints which share more similarity. One important factor in this algorithm is deciding the value of number of clusters. As having too large value or too small value of cluster results in poor results so we will have to decide optimum value of number of clusters using some technique.
 
-**Centroid-based through Compositionality of BERT Word Embedding**
+**2. Centroid-based through Compositionality of BERT Word Embedding**
 In ordinary centroid-based method, tf.idf score is calculated of the vocabulary words and those which exceed a given threshold value, are taken as centroid words. The sentences which are comprising of most of the centroid words will be taken as part of summary.
 
 **3.MMR (Maximal Marginal Relevance)**
