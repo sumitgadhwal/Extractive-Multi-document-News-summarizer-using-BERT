@@ -1,0 +1,12 @@
+ROUGE-Type,Task Name,System Name,Avg_F-Score,Num Reference Summaries
+ROUGE-L+StopWordRemoval,TASK1,Summary_3.TXT,0.35211,1
+ROUGE-L+StopWordRemoval,TASK1,Summary_2.TXT,0.29293,1
+ROUGE-L+StopWordRemoval,TASK1,Summary_1.TXT,0.19915,1
+,,,,
+ROUGE-1+StopWordRemoval,TASK1,Summary_3.TXT,0.37273,1
+ROUGE-1+StopWordRemoval,TASK1,Summary_2.TXT,0.35542,1
+ROUGE-1+StopWordRemoval,TASK1,Summary_1.TXT,0.17375,1
+,,,,
+ROUGE-2+StopWordRemoval,TASK1,Summary_3.TXT,0.09756,1
+ROUGE-2+StopWordRemoval,TASK1,Summary_2.TXT,0.09772,1
+ROUGE-2+StopWordRemoval,TASK1,Summary_1.TXT,0.06499,1
